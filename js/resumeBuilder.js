@@ -1,1 +1,2 @@
-$("#main").append(Yasuhiro);
+$("#main").append("Yasuhiro");
+
